@@ -1,0 +1,21 @@
+{
+  "name": "create-ip",
+  "description": "Create Projects Instantly with the predefined templates provided here.",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "create-ip": "index.js",
+    "ctpl": "index.js"
+  },
+  "engines": {
+    "node": "^18.0.0 || >=20.0.0"
+  },
+  "files": [
+    "index.js",
+    "templates/*"
+  ],
+  "devDependencies": {
+    "prompts": "^2.4.2"
+  }
+}

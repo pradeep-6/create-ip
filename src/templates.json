@@ -1,0 +1,22 @@
+[
+  {
+    "value": "template-html-bootstrap-jquery-offline",
+    "title": "HTML/Bootsteap/Jquery Tempalte",
+    "description": "This is a basic HTML 5 tempalate with Bootstrap v5.3.7 and jQuery v3.7.1 installed offline (Created on 13Aug25)."
+  },
+  {
+    "value": "template-react-cdn-offline",
+    "title": "React V18 Template",
+    "description": "This is a basic react app template with React V18 installed offline (Created on 13Aug25)."
+  },
+  {
+    "value": "template-react-mui-basic",
+    "title": "React V18 MUI Basic Template",
+    "description": "This is a basic react app template with React V18 and MUI with defaults installed (Created on 13Aug25)."
+  },
+  {
+    "value": "template-react-mui-all",
+    "title": "React V18 MUI Complete Template",
+    "description": "This is a react app template with React V18 and All the MUI Libraries (MUI,DataGrids,DateTime Pickers[with dayjs],Charts & TreeView - communit versions) with defaults installed (Created on 13Aug25)."
+  }
+]
